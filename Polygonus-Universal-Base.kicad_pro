@@ -56,13 +56,9 @@
         }
       ],
       "drc_exclusions": [
-        "silk_over_copper|181234566|92528630|6c85c0b3-0ad3-406f-8f18-b2208b15bde9|fafd8878-d160-401f-a009-514363fc108e",
-        "silk_over_copper|181234566|95168539|a4022b51-0570-4266-92ff-ff9100c84f7e|6c3767fd-b642-4cfd-b04b-eb16211d8c21",
-        "silk_over_copper|181234566|95968630|a4022b51-0570-4266-92ff-ff9100c84f7e|6c3767fd-b642-4cfd-b04b-eb16211d8c21",
-        "silk_over_copper|181291130|95620919|c6522ffa-6188-4fc7-b203-bacdba141f1f|6c3767fd-b642-4cfd-b04b-eb16211d8c21",
-        "silk_over_copper|214172516|26392516|4fc19362-ead1-43c9-864e-c345502a3d15|fe5e8dec-1757-4d23-8169-ce0069f8c22d",
+        "silk_over_copper|200660000|99836217|dd1797cf-5eb4-4a7a-9963-d4ae1d89ae98|7f1b33c6-5e95-42f2-9a32-581c32a7d58b",
+        "silk_over_copper|210075759|100580000|73c3bc2f-5c04-45ab-a74e-bb865b4065e4|5a219abc-6b9c-4301-a9b5-0422e5410bbc",
         "silk_over_copper|214277500|26392516|5f285648-9d61-4112-a5f7-49852771fb7f|c32ff4aa-ad2a-408e-b2f6-e489726232af",
-        "silk_over_copper|214277658|26497658|4fc19362-ead1-43c9-864e-c345502a3d15|c32ff4aa-ad2a-408e-b2f6-e489726232af",
         "silk_over_copper|60027500|26512500|6ebe6d63-4056-48e8-9eff-d825f638146f|383c5809-70c2-4b22-aa71-7e44deb1ea8c",
         "silk_over_copper|60160000|26392516|5f285648-9d61-4112-a5f7-49852771fb7f|fe5e8dec-1757-4d23-8169-ce0069f8c22d"
       ],
@@ -356,7 +352,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Polygonus-M50-M60.kicad_pro",
+    "filename": "Polygonus-Universal-Base.kicad_pro",
     "version": 1
   },
   "net_settings": {
