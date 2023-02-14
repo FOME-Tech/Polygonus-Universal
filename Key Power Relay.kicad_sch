@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid a0b4e80a-4e1e-4583-9640-e78e1d68f63f)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (wire (pts (xy 191.77 81.28) (xy 215.9 81.28))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid e014b643-58ac-45af-b373-0f794c3c0fbd)
+  )
+
+  (hierarchical_label "12V_KEY" (shape input) (at 215.9 81.28 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8b03929c-8454-4117-b623-68949489e425)
+  )
+  (hierarchical_label "12V_RAW" (shape input) (at 191.77 81.28 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid abb53e5a-a24a-4daa-837d-9291818bf66e)
+  )
+)
