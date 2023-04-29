@@ -117,7 +117,7 @@
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.19999999999999998,
+        "min_track_width": 0.25,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
@@ -461,6 +461,14 @@
     [
       "2e1028d9-7b0e-4bfd-a0ec-cbc4907c4bcc",
       "Lowside Adder1"
+    ],
+    [
+      "2889b04e-b195-449f-8a75-049e865cc173",
+      "WBO-CAN-TRANS"
+    ],
+    [
+      "10870bd0-e7b2-41e0-a73b-86c976bc9253",
+      "WBO-CAN-TRANS1"
     ]
   ],
   "text_variables": {}
