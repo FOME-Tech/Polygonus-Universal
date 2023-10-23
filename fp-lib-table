@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Wideband")(type "KiCad")(uri "${KIPRJMOD}/wideband_module.pretty")(options "")(descr ""))
+  (lib (name "wideband_module")(type "KiCad")(uri "${KIPRJMOD}/wideband_module.pretty")(options "")(descr ""))
 )
