@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Polygonus Universal 88p")
+    (date "2023-11-12")
+    (rev "v1.0")
+    (company "FutureProofPerformance.com")
+  )
+
   (lib_symbols
     (symbol "Device:D_Schottky" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 0 2.54 0)

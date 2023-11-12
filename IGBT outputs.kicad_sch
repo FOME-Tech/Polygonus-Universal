@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Polygonus Universal 88p")
+    (date "2023-11-12")
+    (rev "v1.0")
+    (company "FutureProofPerformance.com")
+  )
+
   (lib_symbols
     (symbol "Device:Q_NIGBT_GCE" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 5.08 1.27 0)

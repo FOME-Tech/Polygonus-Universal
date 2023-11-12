@@ -4,6 +4,13 @@
 
   (paper "A3")
 
+  (title_block
+    (title "Polygonus Universal 88p")
+    (date "2023-11-12")
+    (rev "v1.0")
+    (company "FutureProofPerformance.com")
+  )
+
   (lib_symbols
     (symbol "Device:CP" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.635 2.54 0)
